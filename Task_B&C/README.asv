@@ -1,0 +1,19 @@
+# Cardiac 3D Reconstruction
+
+## Introduction
+
+This MATLAB project is designed to take two input ultrasound cardiac images and generate a 3D model of the left ventricle, which can be used to estimate the stroke volume and ejection fraction.
+
+## Installation
+
+To install this project, you will need to have MATLAB installed on your computer. You can download MATLAB from the MathWorks website.
+
+You will also need to install the following dependencies:
+- Statistics and Machine Learning Toolbox
+- Image Processing Toolbox
+
+Once you have installed MATLAB and the required toolboxes, simply clone this repository to your local machine.
+
+## Usage
+
+To use this project, navigate to the project directory and run the main MATLAB script:
