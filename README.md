@@ -1,7 +1,7 @@
 # Task A: Segment left ventricle endocardium
 
 ## To run on testset:
-1. Download the Pretrained_Model_Weights folder. (link: https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/ychen506_jh_edu/Et80TpzqJ3NApfD6x9vhgHoB4k8G1pEPLNIxWmp4-YfVUg?e=vVqStb)
+1. Download the Pretrained_Model_Weights folder. 
 2. Open Project1_TaskA_RunTest.ipynb.
 2. Set testset path.
 3. Set the the pretrained model weights path.
